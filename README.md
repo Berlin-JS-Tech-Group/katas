@@ -4,9 +4,11 @@
 
 ## List of solved katas
 
-- "Permute a Palindrome" - [codewars link](https://www.codewars.com/kata/58ae6ae22c3aaafc58000079), [solution](https://github.com/Berlin-JS-Tech-Group/katas/tree/main/permute_palindrome/solution.js).
+- "First non-repeating character" - [codewars link](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e), [solution](https://github.com/Berlin-JS-Tech-Group/katas/tree/main/first_non_repeating_character/solution.js).
 
 - "1's, 0's and wildcards" - [codewars link](https://www.codewars.com/kata/588f3e0dfa74475a2600002a), [solution](https://github.com/Berlin-JS-Tech-Group/katas/tree/main/1s_0s_and_wildcards/solution.js).
+
+- "Permute a Palindrome" - [codewars link](https://www.codewars.com/kata/58ae6ae22c3aaafc58000079), [solution](https://github.com/Berlin-JS-Tech-Group/katas/tree/main/permute_palindrome/solution.js).
 
 ## Share your solution
 
