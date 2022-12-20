@@ -6,9 +6,9 @@
 
 `20.12.2022`
 
-- "Character with longest consecutive repetition" - [codewars link](https://www.codewars.com/kata/586d6cefbcc21eed7a001155), solution coming soon...
+- "Character with longest consecutive repetition" - [codewars link](https://www.codewars.com/kata/586d6cefbcc21eed7a001155), [solution](https://github.com/Berlin-JS-Tech-Group/katas/tree/main/character_with_longest_consecutive_repetition/solution.js)
 
-- "Your order, please" - [codewars link](https://www.codewars.com/kata/55c45be3b2079eccff00010f), solution coming soon...
+- "Your order, please" - [codewars link](https://www.codewars.com/kata/55c45be3b2079eccff00010f), [solution](https://github.com/Berlin-JS-Tech-Group/katas/tree/main/your_order_please/solution.js)
 
 `Before`
 
