@@ -4,6 +4,14 @@
 
 ## List of solved katas
 
+`20.12.2022`
+
+- "Character with longest consecutive repetition" - [codewars link](https://www.codewars.com/kata/586d6cefbcc21eed7a001155), solution coming soon...
+
+- "Your order, please" - [codewars link](https://www.codewars.com/kata/55c45be3b2079eccff00010f), solution coming soon...
+
+`Before`
+
 - "Equal Sides Of An Array" - [codewars link](https://www.codewars.com/kata/5679aa472b8f57fb8c000047), [solution](https://github.com/Berlin-JS-Tech-Group/katas/tree/main/equal_sides_of_an_array/solution.js).
 
 - "First non-repeating character" - [codewars link](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e), [solution](https://github.com/Berlin-JS-Tech-Group/katas/tree/main/first_non_repeating_character/solution.js).
